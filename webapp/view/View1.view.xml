@@ -3,7 +3,13 @@
 	<App>
 		<pages>
 			<Page title="{i18n>title}">
-				<content></content>
+				<content>
+				<Text text="Anna A. Surname" />
+				
+					
+					
+					
+				</content>
 			</Page>
 		</pages>
 	</App>
