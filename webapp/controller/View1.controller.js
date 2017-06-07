@@ -3,7 +3,8 @@ sap.ui.define([
 ], function(Controller) {
 	"use strict";
 
-	return Controller.extend("GituTestGitHub.controller.View1", {
+	return Controller.extend("GituTestGitHub.controller.View1",
+	{
 
 	});
 });

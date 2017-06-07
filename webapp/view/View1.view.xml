@@ -4,11 +4,7 @@
 		<pages>
 			<Page title="{i18n>title}">
 				<content>
-				<Text text="Anna A. Surname" />
-				
-					
-					
-					
+				<Text text="HCP Dev Centre Pune team testing the GitHub & SAP Ui5" />
 				</content>
 			</Page>
 		</pages>
